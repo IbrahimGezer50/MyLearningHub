@@ -12,3 +12,14 @@ Gerade (21.06.2025) lerne ich:
 ### Lernquellen (21.06.2025)
 * Ich lerne die Grundlagen auf www.py4e.com
 * Ich nutze ChatGPT als zusätzlichen "Lehrer".
+
+### Inhalt
+**Kapitel 1**
+- Variablen (wie man Werte definiert)
+- Indendations (Auswirkungen von Einrückungen der Zeilen)
+- Kommentare im Code einpflegen
+
+**Kapitel 2**
+- Listen
+- Reverse Listen
+- Loops mit Listen
