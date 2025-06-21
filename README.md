@@ -16,7 +16,7 @@ Gerade (21.06.2025) lerne ich:
 ### Inhalt
 **Kapitel 1**
 - Variablen (wie man Werte definiert)
-- Indendations (Auswirkungen von Einrückungen der Zeilen)
+- Indendations (Auswirkungen von Einrückungen der Zeilen)(Kapitel 1/Idendations.md)
 - Kommentare im Code einpflegen
 
 **Kapitel 2**
